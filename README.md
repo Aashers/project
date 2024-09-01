@@ -9,11 +9,8 @@ Complete the information below regarding your group.
 ## Group and project information
 
 ### Group members and zIDs
-- Member 1 (z5379456) - Group leader
-- Member 2 (z3466748) - role
-- Member 3 (zID3) - role
-- Member 4 (zID4) - role
-- Member 5 (zID5) - role
+- Caitlyn Ong (z5379456) - Project Manager / Data Scientist
+- Aashray Sood (z3466748) - Research Lead / Data Scientist
 
 ### Brief project description
 
@@ -23,7 +20,27 @@ Describe your project in one paragraph.
 
 The repository has the following folder structure:
 
+**Agenda**
 - agendas: agendas for each weekly meeting with lecturers (left 24h before the next meeting)
+
+[Online Consultation Agenda]
+
+Online Consultation (29/08/2024) with Wei 
+- 
+
+[Huddle Agenda]
+
+Sunday (01/09/2024)
+- Introduction - 10min 
+- Social Contract - 20-30min (attached in repo)
+- Meeting schedules
+- Team Updates - 10min
+- Project Discussion (1-2h):
+- Topic Finalisation + supporting literature reviews 
+- Key points on each section and the details 
+- Next Steps - 15min 
+
+ ---- To be updated ----
 - checklists: teamwork checklist or a link to an account in a project task management tool
 - data: datasets for analysis
 - gantt_chart: Gantt chart or a link to an account in a project task management tool
