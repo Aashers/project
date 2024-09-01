@@ -21,11 +21,11 @@ Describe your project in one paragraph.
 The repository has the following folder structure:
 
 **Agenda**
-- agendas: agendas for each weekly meeting with lecturers (left 24h before the next meeting) [go here](https://github.com/cait-unsw/Group-13_ZZSC9020-Data-Science-Project/blob/main/minutes/consultation-agenda.md)
+- agendas: agendas for each weekly meeting with lecturers (left 24h before the next meeting) [go here](https://github.com/cait-unsw/Group-13_ZZSC9020-Data-Science-Project/tree/main/agendas)
 - checklists: teamwork checklist or a link to an account in a project task management tool [go here]()
 - data: datasets for analysis
-- gantt_chart: Gantt chart or a link to an account in a project task management tool [go here]()
-- minutes: minutes for each meeting (left not more than 24h after the corresponding meeting) [go here]()
-- report: RMarkdown or Jupyter notebook report in progress [go here]()
+- gantt_chart: Gantt chart or a link to an account in a project task management tool [go here](https://github.com/cait-unsw/Group-13_ZZSC9020-Data-Science-Project/tree/main/gantt_chart)
+- minutes: minutes for each meeting (left not more than 24h after the corresponding meeting) [go here](https://github.com/cait-unsw/Group-13_ZZSC9020-Data-Science-Project/tree/main/minutes)
+- report: RMarkdown or Jupyter notebook report in progress [go here](https://github.com/cait-unsw/Group-13_ZZSC9020-Data-Science-Project/tree/main/report)
 - src: source code [go here]()
 
