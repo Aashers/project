@@ -15,6 +15,7 @@ Complete the information below regarding your group.
 ### Brief project description
 
 Describe your project in one paragraph.
+Solar Focus. 
 
 ## Repository structure
 
